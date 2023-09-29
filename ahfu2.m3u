@@ -60,3 +60,63 @@ https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Sports",ADO TV (720p)
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="AioSport1.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="Sports",Aio Sport 1 (480p)
+https://af.ayas.ir/hls2/aiosport.m3u8
+
+#EXTINF:-1 tvg-id="AioSport2.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="Sports",Aio Sport 2 (480p) [Not 24/7]
+https://af.ayas.ir/hls2/aiosport2.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Sports",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampusLore.us" tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Sports",CampusLore (720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="CDR.cl" tvg-logo="https://i.imgur.com/xevZNi6.png" group-title="Sports",CDR (720p)
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
+
+#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Sports",CnAr Deportes (1440p)
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTV.cl" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Sports",CRTV (720p)
+https://vdo.panelstreaming.live:3058/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Sports",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Sports",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
