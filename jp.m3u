@@ -22,3 +22,5 @@ http://for-testonly.ra1n.lol/bs11/index.m3u8
 http://for-testonly.ra1n.lol/at-x/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X FHD
 http://for-testonly.ra1n.lol/atx1080/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", SSC Extra FHD
+https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
