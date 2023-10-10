@@ -9,9 +9,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 group-title="MyTV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
-https://live.mana2.my/Mytv/index.m3u8
-
 #EXTINF:-1 group-title="MyTV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -22,39 +19,69 @@ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1, group-title="MyTV" tvg-name="8TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV CH148
+#EXTINF:-1, group-title="MyTV" tvg-name="8TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1, group-title="MyTV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9 CH149
+#EXTINF:-1, group-title="MyTV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MyTV" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/AwesomeTVWhite.png",Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 tvg-id="Suketv" tvg-name="SukeTV" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="MyTV",SUKE TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1695533645-9936c62fa4cf4f7290ba2e4f1b0de2fe-0-3d11672470ed3a26d1527e463828bd45&token=1695533645-9936c62fa4cf4f7290ba2e4f1b0de2fe-0-3d11672470ed3a26d1527e463828bd45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 #EXTINF:-1 group-title="MyTV" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroOasis" group-title="MyTV" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1 tvg-id="AstroAura" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/indonesian.png" ch-number="113" tvg-logo="https://aqfadtv.xyz/logos/AstroAura.png",Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
+
 #EXTINF:-1 tvg-id=" " group-title="MyTV" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/znpjtv57ts/citra/
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name=" citra" tvg-logo="https://i.ibb.co/Gsgn8Hw/SGN-09-02-2023-1693647760050.png" group-title="MyTV" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144", Astro Citra
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
+#EXTINF:-1 group-title="Anime" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax Sg
+https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
 #EXTINF:-1 tvg-id="AstroVaanavil" group-title="MyTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopGAAYA" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="21" channel-id="21" tvg-group="MY/SG" group-title="MyTV",Go Shop GAAYA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
-https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm 
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="https://i.ibb.co/fGXwG99/94949.png" group-title="MyTV",DEGUP
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="GoShopRUUMA" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MyTV",Go Shop RUUMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="MyTV" group-logo="https://raw.githubusercontent.com/marginfull/ott/main/unifitv.png",PESONA HD
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.159_80&hms_devid=1793&mag_hms=1793,1790,1800,1789&mount=1000002&targetdev=1793&it=H4sIAAAAAAAAA0XMwQoCIRRA0b-ZpejLsVy4KoI2Eky1jae-EcFG0mmgv4-JoP09d67o6XQwzilFoKEnDTIo6UQguXNbP3KnqZddo6ctZtN5zDlN0ZawstuwvwvOOAMQTEB3WXfHjNHAt7Svh6P6ZwPVJXkyoY1swcYwxkoR51Qmds74vtb8Sz4icfuhmQAAAA
+
 
 #EXTINF:-1 group-title="MyTV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -72,8 +99,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Sport" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_WWE.png",WWE NETWORK
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Sport" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_WWE.png",WWE Network
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="111" tvg-logo="https://aqfadtv.xyz/logos/SukanRTM.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -83,3 +114,82 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-country="BR" tvg-url="" group-title="Sport",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAcE44P.png" group-title="4K SPORTS",BT Sport Ultimate UHD
+https://7pal.short.gy/BTUltimate
+
+#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/DRpHCWq/SGN-08-30-2023-1693410327425.png" group-title="Sport",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="SONY SPORTS TEN 1" tvg-logo="https://i.ibb.co/yYsLH21/SGN-08-31-2023-1693439312078.png",SONY SPORTS TEN 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="SONY SPORTS TEN 2" tvg-logo="https://i.ibb.co/NsMn9YN/SGN-09-01-2023-1693536359496.png",SONY SPORTS TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="SONY SPORTS TEN 3" tvg-logo="https://i.ibb.co/ZgYqgSG/SGN-09-01-2023-1693536968829.png",SONY SPORTS TEN 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="SONY SPORTS TEN 4" tvg-logo="https://i.ibb.co/dGGKZGx/SGN-09-01-2023-1693537184649.png",SONY SPORTS TEN 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="SONY SPORTS TEN 5" tvg-logo="https://i.ibb.co/j4jPrPt/SGN-09-01-202j3-1693537260635.png",SONY SPORTS TEN 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-id="V sport ultra HD (T)" tvg-logo="https://i.imgur.com/S3IXhWw.png" group-title="Sports",V Sport UHD
+https://7pal.short.gy/VSportUHD
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/S9CUOYQ.png" group-title="Sports",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/nWHxKJz.png" group-title="4K SPORTS",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Escape" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Escape
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1091
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Pulau (2023)" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Pulau (2023)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1085
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Siku 12: Langkah Derhaka" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First- Siku 12: Langkah Derhaka
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1076
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Bas Terakhir Malam Raya" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First- Bas Terakhir Malam Raya
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1066
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Duan Nago Bogho" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Duan Nago Bogho
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1058
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Daddyku Gangster" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First- Daddyku Gangster
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1041
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Air Force The Movie: Selagi Bernyawa" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Air Force The Movie: Selagi Bernyawa
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1018
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Abang Long Fadil 3" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Abang Long Fadil 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1017
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Pengabdi Setan 2" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Pengabdi Setan 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1022
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Talbis iblis" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Talbis iblis
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1023
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Remp-it 2" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Remp-it 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1071
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Merewang Keluarga Pak Awang" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector-1024x484.png" group-title="ASTRO FIRST",Astro First - Merewang Keluarga Pak Awang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1101
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16ZG1ZVE5tWkRZdE9XWmpPQzAwWXpBeUxXSXpNRFV0TUdJMk1XUTRPV0U1TkRjeCIsIndtb3BpZCI6MzIsImV4cCI6MTY5NjMxMjkxMCwiaWF0IjoxNjk1NzA4OTEwfQ.FAJJ3c2SygTL3U1yZZFVAUj6nyMtBZQ5_O6BOtbWG5o"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sooka/asgv
+#EXTINF:-1 tvg-id="CHN" group-title="Live Event" ch-number="99" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/556c6880b8974b3ebf2733df882bcbcc/version/0/width/1280/height/720",All Stars Gegar Vaganza Live
+https://aqfadtv.xyz/live/asgv/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/9989
+#EXTINF:-1 tvg-id="CHN" group-title="Live Event" ch-number="99" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/556c6880b8974b3ebf2733df882bcbcc/version/0/width/1280/height/720",All Stars Gegar Vaganza Live (Backup)
+https://aqfadtv.xyz/live/asgv-backup/index.mpd
