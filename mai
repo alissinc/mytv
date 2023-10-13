@@ -72,21 +72,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #EXTINF:-1 tvg-id="DramaSangat" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",Drama Sangat
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
-#EXTINF:-1 tvg-id="GoShopBAARU" ch-number="111" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",Go Shop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default.mpd
-
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",Go Shop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2501
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default.mpd
-
-#EXTINF:-1 tvg-id="GoShop2" ch-number="303" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://aqfadtv.xyz/logos/GoShop2.png",Go Shop 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default.mpd
-
 #EXTINF:-1 tvg-id=" " group-title="MyTV" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
@@ -156,6 +141,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sport" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="802" tvg-logo="https://www.aqfadtv.xyz/logos/AstroArena2_v1.png",Astro Arena 2
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arenabola/
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" group-title="Sport" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Astro Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sport" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="824" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
