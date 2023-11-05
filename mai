@@ -313,3 +313,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sport",RMC Sport 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
 
+#EXTINF:-1 tvg-id="" ch-number="101" tvg-name="TV1 HD" group-title="LIVE ONLY" group-logo="https://i.ibb.co/Tc8rCrB/Logo-Maker-23092023-150553.png" tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/znpjtv57ts/livegv1/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd 
+
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="LIVE ONLY" group-logo="https://i.ibb.co/fGXwG99/94949.png" tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/znpjtv57ts/livegv2/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="LIVE ONLY" group-logo="https://i.ibb.co/fGXwG99/94949.png" tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 3
+https://aqfadtv.xyz/videos/asgv/index.mpd
