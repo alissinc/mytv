@@ -4,9 +4,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MyTV" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V2.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1, group-title="MyTV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="ASTRO-MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 group-title="MyTV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
@@ -17,23 +18,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1, group-title="MyTV" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png",NTV7
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1, group-title="MyTV" tvg-name="8TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV
 https://aqfadtv.xyz/live/8tv/index.mpd
 
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1, group-title="MyTV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MyTV" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="MyTV" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/AwesomeTVWhite.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
+#https://astro.cdnstreamr.workers.dev/dash-wv/linear/211/default.mpd
+https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
