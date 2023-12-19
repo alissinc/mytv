@@ -1,7 +1,7 @@
 ok#EXTM3U 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alissinc/mytv/main/epg.xml" refresh="1440" max-conn="1" refresh="24" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png",SUKE TV
+#EXTINF:-1 tvg-id="SUKE TV" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png",SUKE TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1703002463-3f0ad7396893455c8d86632eed5c6598-0-0b198e8c906828deb40c7f1c39d854fa&token=1703002463-3f0ad7396893455c8d86632eed5c6598-0-0b198e8c906828deb40c7f1c39d854fa
 
 ==========================================================================================================
