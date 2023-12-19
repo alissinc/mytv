@@ -4,64 +4,9 @@
     <display-name lang="en">Not Available</display-name>
   </channel>
 
-  <programme start="20231219180000 +0800" stop="20231219185500 +0000" channel="TV3">
+  <programme start="20231219190000 +0800" stop="20231219195500 +0000" channel="TV3">
     <title lang="en">testing 123 ding dong</title>
     <desc lang="en">safjhsak nadsjhads asd  asdjkskfbsdfkhb</desc>
   </programme>
-  <programme start="20230128000000 +0000" stop="20230128235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230129000000 +0000" stop="20230129235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230130000000 +0000" stop="20230130235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230131000000 +0000" stop="20230131235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230201000000 +0000" stop="20230201235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230202000000 +0000" stop="20230202235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230203000000 +0000" stop="20230203235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230204000000 +0000" stop="20230204235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
-  <programme start="20230205000000 +0000" stop="20230205235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
-  <programme start="20230206000000 +0000" stop="20230206235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
-  <programme start="20230207000000 +0000" stop="20230207235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
-  <programme start="20230208000000 +0000" stop="20230208235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
-  <programme start="20230209000000 +0000" stop="20230209235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
-  <programme start="20230210000000 +0000" stop="20230210235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
-  </programme>
+
 </tv>
