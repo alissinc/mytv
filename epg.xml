@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV3">
+  <channel id="SUKE TV">
     <display-name lang="en">Not Available</display-name>
   </channel>
 
-  <programme start="20231219190000 +0800" stop="20231219195500 +0000" channel="TV3">
+  <programme start="20231219190000 +0800" stop="20231219195500 +0000" channel="SUKE TV">
     <title lang="en">testing 123 ding dong</title>
     <desc lang="en">safjhsak nadsjhads asd  asdjkskfbsdfkhb</desc>
   </programme>
