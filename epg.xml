@@ -4,9 +4,9 @@
     <display-name lang="en">Not Available</display-name>
   </channel>
 
-  <programme start="20230127000000 +0000" stop="20230127235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
+  <programme start="20231219180000 +0800" stop="20231219185500 +0000" channel="TV3">
+    <title lang="en">testing 123 ding dong</title>
+    <desc lang="en">safjhsak nadsjhads asd  asdjkskfbsdfkhb</desc>
   </programme>
   <programme start="20230128000000 +0000" stop="20230128235900 +0000" channel="CHN">
     <title lang="en">Channel Information Not Available</title>
