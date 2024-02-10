@@ -21,12 +21,12 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="108" ch-number="148" tvg-name="8TV" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
+#EXTINF:-1 tvg-id="108" ch-number="148" tvg-name="8TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-id="109" ch-number="149" tvg-name="TV9" group-title="UNIFI" tvg-logo="https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/logo1/TV9.png", TV9
+#EXTINF:-1 tvg-id="109" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/logo1/TV9.png", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
@@ -38,7 +38,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118" ch-number="118" tvg-name="Inspirasi" group-title="UNIFI" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png", Inspirasi
+#EXTINF:-1 tvg-id="118" ch-number="118" tvg-name="Inspirasi" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png", Inspirasi
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,10 +53,10 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS", Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="MALAYSIA", Astro Arena
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORTS", Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="MALAYSIA", Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
