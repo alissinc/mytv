@@ -237,23 +237,23 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="⚽️Sports⚽️", 825 Sony TEN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="🇲🇾Malaysia🇲🇾" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD 1
+#EXTINF:-1 tvg-id="AstroRia 1" tvg-name="Astro Ria HD" group-title="🇲🇾Malaysia🇲🇾" ch-number="104a" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD 1
 https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ5vgeqhx9I7sq_P-z3BI5YI=JkKq/dash-wv/jitp-linearwm/1004/default_ott.mpd?10
 
-
-#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2
+#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" tvg-id="AstroRia 2" ch-number="104b" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zrkuGGMF0=MqJ_/dash-wv/jitp-linearwm/1004/default.mpd
 
-#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 3 
+#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" tvg-id="AstroRia 3" ch-number="104c" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHoqz_DYu3dYLuLSskP3eWAo=s5-s/dash-wv/jitp-linearwm/1004/default.mpd
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="⚽️Sports⚽️", 825 Sony TEN 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
