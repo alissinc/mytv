@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/alissinc/mytv/main/epg.xml"
-
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="🇲🇾Malaysia🇲🇾" group-logo="https://marketingmagazine.com.my/wp-content/uploads/2023/07/SOOKA.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", Astro Live Show 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
