@@ -224,3 +224,8 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 https://linears-playback.astro.com.my/vsg/41NQ0BY9fYWpazUOpVOitDpKvEkADWkqlgPP3jxVutjsQ=i8fl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #http://iptv12k.com:35461/live/80236053010/645789/735.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41765Kug-mFx-XYAoEeuDTMusX-eRGHb_1cleSnKBfYZE=1vPe/dash-wv/jitp-dashisowm/2402/default_ott.mpd
