@@ -12,7 +12,7 @@ https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="🇲🇾Malaysia🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",T103 V3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png", 106 TV6
@@ -37,12 +37,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="🇲🇾Malaysia🇲🇾", 110 OASIS HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾",116 ASTRO OASIS HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -99,7 +97,7 @@ https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="🇲🇾Malaysia🇲🇾" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqAMl.png", 123 Awesome TV
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+#EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",146 OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="🇲🇾Malaysia🇲🇾" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
@@ -221,11 +219,11 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",104 ASTRO RIA HD
 https://linears-playback.astro.com.my/vsg/41NQ0BY9fYWpazUOpVOitDpKvEkADWkqlgPP3jxVutjsQ=i8fl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #http://iptv12k.com:35461/live/80236053010/645789/735.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾Malaysia🇲🇾",107 ASTRO WARNA HD
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41765Kug-mFx-XYAoEeuDTMusX-eRGHb_1cleSnKBfYZE=1vPe/dash-wv/jitp-dashisowm/2402/default_ott.mpd
