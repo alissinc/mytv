@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="TV1" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd	
+
+#EXTINF:-1 tvg-id="TV2" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd	
+
+#EXTINF:-1 tvg-id="TV6" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd	
+
+#EXTINF:-1 tvg-id="TVOkey" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",TVOkey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd	
+
+#EXTINF:-1 tvg-id="RTM Sukan" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",RTM Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd	
+
+#EXTINF:-1 tvg-id="Parlimen" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",Parlimen
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rakyat" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#EXTINF:-1 tvg-id="ASEAN" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd	
+
+#EXTINF:-1 tvg-id="RTM Makan" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",RTM Makan
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
+
+#EXTINF:-1 tvg-id="TVS" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",TVS
+https://stream2.smg.my/live/tvsplus_1080p2628kbs/index.m3u8			
+
+#EXTINF:-1 tvg-id="AWANI" tvg-logo="logo" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
