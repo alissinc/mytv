@@ -51,3 +51,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
 
 #EXTINF:-1 tvg-id="live" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="🇲🇾",Jr.
 https://storage.googleapis.com/unixertingover1/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="live" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-logo="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1f2-1f1fe.png" group-title="test",Jr.
+https://storage.googleapis.com/unvfdertyfc1/mux_video_ts/index-1.m3u8
